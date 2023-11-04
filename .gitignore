@@ -7,7 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-
+node_modules
+dist
+dist-ssr
+*.local
 
 # Editor directories and files
 .vscode/*
@@ -20,9 +23,5 @@ lerna-debug.log*
 *.sln
 *.sw?
 
-node_modules
-dist
-dist-ssr
-*.local
 .env
 zetatonback-firebase-adminsdk-i5vsz-32a2c1af05.json
